@@ -1,0 +1,17 @@
+.userInfoWrapper {
+    position: relative;
+    display: flex;
+    flex: 1 1 100%;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(196, 196, 196);
+    max-width: 1200px;
+    margin: 10px auto;
+}
+
+.userInfoTextarea {
+    width: 100%;
+    min-height: 100px;
+    resize: none;
+}

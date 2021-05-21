@@ -1,0 +1,8 @@
+.newRowInput {
+    height: 30px;
+    font-size: 24px;
+    width: 100%;
+}
+.newRowInputError {
+    background-color: rgba(255, 101, 101, 0.548);
+}

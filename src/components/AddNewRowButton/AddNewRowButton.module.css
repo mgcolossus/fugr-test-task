@@ -1,0 +1,11 @@
+.addNewRowButton {
+    display: block;
+    flex: 0 0 auto;
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0 0 0 10px;
+}

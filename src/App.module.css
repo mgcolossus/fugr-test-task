@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.appWrapper {
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+}
+

@@ -1,0 +1,19 @@
+.tableFilterWrapper {
+    display: flex;
+    flex: 0 1 auto;
+    align-items: center;
+}
+.tableFilterButton {
+    display: block;
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid black;
+    padding: 6px 10px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.tableFilterInput {
+    padding: 5px 10px;
+}
